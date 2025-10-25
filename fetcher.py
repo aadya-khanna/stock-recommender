@@ -19,10 +19,11 @@ data = get_stats()
 
 print(type(data))
 
+
+
 # metrics to track - avg return, volatility, momentum, P/E, dividend yielf 
 
 # metrics_dict = {}
-
 
 
 

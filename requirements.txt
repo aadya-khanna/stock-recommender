@@ -4,3 +4,5 @@ yfinance
 streamlit
 requests
 scipy
+matplotlib
+plotly
