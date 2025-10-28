@@ -1,1 +1,1 @@
-*** a basic stock recommendating dashboard (thats what it is so far), being created using  pandas, numpy, and streamlit ***
+** powered by pandas, numpy, and streamlit, a lot of coffee and brain juice **
